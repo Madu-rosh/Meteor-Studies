@@ -14,7 +14,7 @@
 ## Articles & Tutorials
 
 ||Original File|Laboratory|
-|---|---|---|
+|---|---|:---:|
 |01|[Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)| - |
 |02|[]()| - |
 |03|[]()| - |
@@ -26,13 +26,13 @@
 ## Books
 
 ||Original File|Laboratory|
-||---|---|
+|---|---|:---:|
 |01|[Discover Meteor](https://www.discovermeteor.com/)|[repository](https://github.com/ericdouglas/meteor-scope)|
 
 ## Learn with Code
 
 ||Original File|Laboratory|
-||---|---|
+|---|---|:---:|
 |01|[]()| - |
 |02|[]()| - |
 |03|[]()| - |
@@ -45,7 +45,7 @@
 ## Screencasts
 
 ||Original File|Laboratory|
-||---|---|
+|---|---|:---:|
 |01|[]()| - |
 |02|[]()| - |
 |03|[]()| - |
@@ -57,7 +57,7 @@
 ## Slides
 
 ||Original File|Laboratory|
-||---|---|
+|---|---|:---:|
 |01|[]()| - |
 |02|[]()| - |
 |03|[]()| - |
@@ -69,7 +69,7 @@
 ## Talks
 
 ||Original File|Laboratory|
-||---|---|
+|---|---|:---:|
 |01|[]()| - |
 |02|[]()| - |
 |03|[]()| - |
