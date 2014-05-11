@@ -6,10 +6,7 @@
 
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
-* [Courses](#courses)
 * [Learn with Code](#learn-with-code)
-* [News](#news)
-* [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Slides](#slides)
 * [Talks](#talks)
@@ -25,25 +22,11 @@
 |---|---|
 |[Discover Meteor](https://www.discovermeteor.com/)|[repository](https://github.com/ericdouglas/meteor-scope)|
 
-## Courses
-
-|Original File|Laboratory|
-|---|---|
-
 ## Learn with Code
 
 |Original File|Laboratory|
 |---|---|
 
-## News
-
-|Original File|Laboratory|
-|---|---|
-
-## Podcasts
-
-|Original File|Laboratory|
-|---|---|
 
 ## Screencasts
 
