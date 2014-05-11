@@ -21,7 +21,7 @@
 |04|[The Wonderful Duo — Using Meteor and AngularJS Together](https://medium.com/web-dev/4d603a4651bf)| - |
 |05|[Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)| - |
 |06|[Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)| - |
-|07|[]()| - |
+|07|[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)| - |
 
 ## Books
 
@@ -77,7 +77,7 @@
 ||Original File|Laboratory|
 |---|---|:---:|
 |01|`pt-br` [Hands-on: criando uma aplicação real-time com Meteor](https://www.youtube.com/watch?v=3_NoIPF_28k)| - |
-|02|[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)| - |
+|02|[]()| - |
 |03|[]()| - |
 |04|[]()| - |
 |05|[]()| - |
