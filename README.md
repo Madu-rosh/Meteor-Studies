@@ -6,6 +6,7 @@
 
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
+* [Courses](#courses)
 * [Learn with Code](#learn-with-code)
 * [Screencasts](#screencasts)
 * [Slides](#slides)
@@ -34,6 +35,14 @@
 |05|[]()| - |
 |06|[]()| - |
 |07|[]()| - |
+
+## Courses
+
+||Original File|Laboratory|
+|---|---|:---:|
+|01|[]()| - |
+|02|[]()| - |
+|03|[]()| - |
 
 ## Learn with Code
 
