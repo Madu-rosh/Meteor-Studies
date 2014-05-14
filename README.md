@@ -62,7 +62,7 @@
 ||Original File|Laboratory|
 |---|---|:---:|
 |01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
-|02|[]()| - |
+|02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
 |03|[]()| - |
 |04|[]()| - |
 |05|[]()| - |
