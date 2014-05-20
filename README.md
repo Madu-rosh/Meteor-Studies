@@ -23,6 +23,7 @@
 |05|[Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)| - |
 |06|[Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)| - |
 |07|[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)| - |
+|08|[Why don't I see meteor.js everywhere?](http://www.reddit.com/r/javascript/comments/24hxfv/why_dont_i_see_meteorjs_everywhere/)| - |
 
 ## Books
 
