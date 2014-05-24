@@ -6,6 +6,7 @@
 
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
+* [Courses](#courses)
 * [Learn with Code](#learn-with-code)
 * [Screencasts](#screencasts)
 * [Slides](#slides)
@@ -22,6 +23,7 @@
 |05|[Why Meteor will kill Ruby on Rails](http://differential.io/blog/meteor-killin-rails)| - |
 |06|[Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)| - |
 |07|[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)| - |
+|08|[Why don't I see meteor.js everywhere?](http://www.reddit.com/r/javascript/comments/24hxfv/why_dont_i_see_meteorjs_everywhere/)| - |
 
 ## Books
 
@@ -34,6 +36,14 @@
 |05|[]()| - |
 |06|[]()| - |
 |07|[]()| - |
+
+## Courses
+
+||Original File|Laboratory|
+|---|---|:---:|
+|01|[]()| - |
+|02|[]()| - |
+|03|[]()| - |
 
 ## Learn with Code
 
@@ -52,8 +62,8 @@
 
 ||Original File|Laboratory|
 |---|---|:---:|
-|01|[]()| - |
-|02|[]()| - |
+|01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
+|02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
 |03|[]()| - |
 |04|[]()| - |
 |05|[]()| - |
