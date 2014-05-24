@@ -24,6 +24,8 @@
 |06|[Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)| - |
 |07|[How Meteor.js Made Me a God](http://trevorgeise.svbtle.com/meteor-resources-i-use)| - |
 |08|[Why don't I see meteor.js everywhere?](http://www.reddit.com/r/javascript/comments/24hxfv/why_dont_i_see_meteorjs_everywhere/)| - |
+|09|[Handlebars.js Tutorial: Learn Everything About Handlebars.js JavaScript Templating](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/) | - |
+|10|[Meteor vs Angular](Meteor vs Angular)| - |
 
 ## Books
 
