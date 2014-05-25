@@ -6,24 +6,11 @@ $(function() {
 	  { name:"Wing Tip", price:259.00 }
 	];
 
-	function updateAllShoes(shoes) {
-	  var theHTMLListOfShoes = "";
+	// Get the HTML from the template in the script tag
+	var theTemplateScript = $('#shoe-template').html();
 
-		shoesData.forEach(function(eachShoe) {
-		  // Note the coupling and mixing of HTML and JavaScript; it is tedious to follow
-		  theHTMLListOfShoes += '<li class="shoes">' + 
-		    '<a href="/' +
-		    eachShoe.name.toLowerCase() +
-		    '">' +
-		    eachShoe.name +
-		    ' -- Price: ' +
-		    eachShoe.price +
-		    '</a></li>';
-		});
-		
-		return theHTMLListOfShoes;
-	}
+	// Compile the template
+	var theTemplate = Handlebars.compile(theTemplateScript);
 
-	$(".shoesNav").append(updateAllShoes(shoesData));
-
+	$('.shoesNav').append(theTemplate(shoesData));
 });
