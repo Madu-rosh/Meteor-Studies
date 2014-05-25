@@ -26,6 +26,7 @@
 |08|[Why don't I see meteor.js everywhere?](http://www.reddit.com/r/javascript/comments/24hxfv/why_dont_i_see_meteorjs_everywhere/)| - |
 |09|[Handlebars.js Tutorial: Learn Everything About Handlebars.js JavaScript Templating](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/) | - |
 |10|[Meteor vs Angular](Meteor vs Angular)| - |
+|11|[Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)||
 
 ## Books
 
