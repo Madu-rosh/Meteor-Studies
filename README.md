@@ -67,7 +67,7 @@
 |---|---|:---:|
 |01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
 |02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
-|03|[]()| - |
+|03|[Differential: Create a Meteor blog in 30 seconds](https://www.youtube.com/watch?v=_e6AXckPIxY)| - |
 |04|[]()| - |
 |05|[]()| - |
 |06|[]()| - |
