@@ -67,7 +67,7 @@
 |---|---|:---:|
 |01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
 |02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
-|03|[Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2))| - |
+|03|[Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)| - |
 |04|[]()| - |
 |05|[]()| - |
 |06|[]()| - |
@@ -94,5 +94,5 @@
 |03|[Hosting Meteor events](https://www.youtube.com/watch?v=w9AOwbcsc0M)| - |
 |04|[Cutting Together: Film editing around the world](https://www.youtube.com/watch?v=zYF541EJagk)| - |
 |05|[EtherPOS & Atomic Tattoos: One year of running a business on Meteor](https://www.youtube.com/watch?v=Z3cOLFP-ZyQ)| - |
-|06|[]()| - |
+|06|[Introduction to Meteor](https://www.youtube.com/watch?v=q9pA2xApdY0)| - |
 |07|[]()| - |
