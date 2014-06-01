@@ -70,7 +70,7 @@
 |03|[Differential: Create a Meteor blog in 30 seconds](https://www.youtube.com/watch?v=_e6AXckPIxY)| - |
 |04|[Hosting Meteor events](https://www.youtube.com/watch?v=w9AOwbcsc0M)| - |
 |05|[Cutting Together: Film editing around the world](https://www.youtube.com/watch?v=zYF541EJagk)| - |
-|06|[]()| - |
+|06|[EtherPOS & Atomic Tattoos: One year of running a business on Meteor](https://www.youtube.com/watch?v=Z3cOLFP-ZyQ)| - |
 |07|[]()| - |
 
 ## Slides
