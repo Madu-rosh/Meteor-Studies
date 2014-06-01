@@ -26,6 +26,7 @@
 |08|[Why don't I see meteor.js everywhere?](http://www.reddit.com/r/javascript/comments/24hxfv/why_dont_i_see_meteorjs_everywhere/)| - |
 |09|[Handlebars.js Tutorial: Learn Everything About Handlebars.js JavaScript Templating](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/) | - |
 |10|[Meteor vs Angular](Meteor vs Angular)| - |
+|11|[Why the future of the web is real-time (6 months w/ Meteor)](http://thechangelog.com/why-meteor/)||
 
 ## Books
 
@@ -66,7 +67,7 @@
 |---|---|:---:|
 |01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
 |02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
-|03|[]()| - |
+|03|[Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)| - |
 |04|[]()| - |
 |05|[]()| - |
 |06|[]()| - |
@@ -89,9 +90,9 @@
 ||Original File|Laboratory|
 |---|---|:---:|
 |01|`pt-br` [Hands-on: criando uma aplicação real-time com Meteor](https://www.youtube.com/watch?v=3_NoIPF_28k)| - |
-|02|[]()| - |
-|03|[]()| - |
-|04|[]()| - |
-|05|[]()| - |
-|06|[]()| - |
+|02|[Differential: Create a Meteor blog in 30 seconds](https://www.youtube.com/watch?v=_e6AXckPIxY)| - |
+|03|[Hosting Meteor events](https://www.youtube.com/watch?v=w9AOwbcsc0M)| - |
+|04|[Cutting Together: Film editing around the world](https://www.youtube.com/watch?v=zYF541EJagk)| - |
+|05|[EtherPOS & Atomic Tattoos: One year of running a business on Meteor](https://www.youtube.com/watch?v=Z3cOLFP-ZyQ)| - |
+|06|[Introduction to Meteor](https://www.youtube.com/watch?v=q9pA2xApdY0)| - |
 |07|[]()| - |
