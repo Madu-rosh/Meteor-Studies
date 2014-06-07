@@ -68,7 +68,7 @@
 |01|[Meteor's site Screencast](https://www.meteor.com/screencast)| - |
 |02|[Subscriptions and DDP](https://www.eventedmind.com/feed/meteor-subscriptions-and-ddp)| - |
 |03|[Diving into Meteor.JS](https://www.youtube.com/playlist?list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)| - |
-|04|[]()| - |
+|04|[#1 Building a Database application with Meteor JS](https://www.youtube.com/watch?v=9i3CCy3NpYM)| - |
 |05|[]()| - |
 |06|[]()| - |
 |07|[]()| - |
