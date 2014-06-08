@@ -1,3 +1,9 @@
+var clearValues = function() {
+  $( '#make' ).val( '' ).focus();
+  $( '#model' ).val( '' );
+  $( '#brand' ).val( '' );
+}
+
 var okCancelEvents = function( selector, callbacks ) {
   var ok = callbacks.ok || function() {};
   var cancel = callbacks.cancel || function() {};
@@ -32,7 +38,14 @@ if (Meteor.isClient) {
   Template.main.events(okCancelEvents(
       '#brand', {
         ok: function( text, evt ) {
-          alert( text );
+          var make = $( '#make' ).val();
+          var model = $( '#model' ).val();
+          CarBrands.insert({
+            make: make,
+            model: model,
+            brand: text
+          });
+          clearValues();
         }
       }
     ));
